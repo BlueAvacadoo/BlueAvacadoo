@@ -121,13 +121,4 @@ A collection of mini games built for the ACM student chapter.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlueAvacadoo&show_icons=true&theme=radical&hide_border=true" alt="Anusha's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueAvacadoo&theme=radical&hide_border=true" alt="Anusha's Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueAvacadoo&theme=react-dark&hide_border=true" alt="Activity Graph" width="97%"/>
-</p>
-
 <p align="center"><i>📫 Reach me on <a href="https://www.linkedin.com/in/anusha-anindita">LinkedIn</a> or find the memes on <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE">Instagram</a> — let's talk quantum knots, exoplanets, or why your brain might be getting lazy around AI.</i></p>
