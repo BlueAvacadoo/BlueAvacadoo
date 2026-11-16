@@ -12,10 +12,12 @@
 
 ---
 
-I have a creative side and a technical side, and I try to bring both into everything I do. Whether it's hosting a TEDx event, debating a motion, or building a quantum circuit, I like work that is thoughtful and a little playful.
+I have a creative side and a technical side, and I try to bring both into everything I do. I will play the devil's advocate, teach you about quantum circuits and also motivate you to start a creative hobby all in one conversation.
 
-I'm most passionate about **coffee and human-AI interaction**, especially how AI changes the way people think and learn. Right now I'm researching how generative AI affects learner cognition, and what it would take to build AI that makes people think harder rather than less.
+I'm most passionate about **coffee and human-AI interaction**, especially how AI changes the way people think and learn. Right now I'm working on how generative AI affects learner cognition, and what it would take to build AI that makes people think harder rather than less. 
 
+---
+"We have found a solution to thinking, only thinking was never the problem." - Advait Sarkar
 ---
 
 ### Background
