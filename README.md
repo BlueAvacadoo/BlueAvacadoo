@@ -23,7 +23,6 @@ I'm most passionate about **coffee and human-AI interaction**, especially how AI
 - **B.Tech, Computational Mathematics**, Mahindra University (2024–2028), CGPA 8.5
 - **Best Paper Award**, ICMEET 2026, for a traffic volume prediction study (Springer LNEE, to be published)
 - **3rd place**, 48-hour hackathon, quantum search pipeline for braid theory
-- **Freelance Intellectual Property Researcher**, Article One Partners (2025–2026)
 - **Campus Ambassador**, Mahindra University (2025–present)
 - **Secretary**, The Erudite Literary & Debate Club, and **Treasurer**, ACM MU Student Chapter
 - **Host**, TEDxMahindraUniversity, and interviewer of author Pico Iyer
